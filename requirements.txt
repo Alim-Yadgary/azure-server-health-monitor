@@ -1,0 +1,6 @@
+# Azure Functions Python SDK - required by the runtime
+azure-functions
+
+# psutil: cross-platform library for system/process metrics
+# Used to read CPU, memory, disk, and uptime data
+psutil
