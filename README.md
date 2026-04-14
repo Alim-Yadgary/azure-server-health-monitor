@@ -94,7 +94,7 @@ azure-monitor-project/
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/YOUR_USERNAME/azure-server-health-monitor.git
+git clone https://github.com/Alim-Yadgary/azure-server-health-monitor.git
 cd azure-server-health-monitor
 ```
 
