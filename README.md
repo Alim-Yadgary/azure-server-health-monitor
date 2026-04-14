@@ -163,7 +163,7 @@ GET https://alim-health-monitor.azurewebsites.net/api/health
 
 **Alim Yadgary**  
 Data Centre Engineer | Cloud & Infrastructure  
-[LinkedIn](https://linkedin.com/in/YOUR_PROFILE) • [Email](mailto:Yadgary2@hotmail.com)
+[LinkedIn](https://www.linkedin.com/in/alim-yadgary-bb2041228/) • [Email](mailto:Yadgary2@hotmail.com)
 
 ---
 
